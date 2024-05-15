@@ -81,14 +81,12 @@ In conclusion, we built our Evans cycle logical database using the entity relati
  
 
 
-Conceptual Data Model
- 
 
-Logical data model
 
 
 
 References: 
+
 Binus (2021) Expand the enterprise logical data model. Available at: Expand the enterprise logical data model – School of Information Systems (binus.ac.id) (Accessed: 25 January 2024).
 
 Course Hero (2021) Fundamental of databases- data models. Available at: Fundamentals of Databases Unit 3 Data Model.ppt - UNIT 3 Data Models NORTHERN CARIBBEAN UNIVERSITY College of Natural & Applied Sciences Allied | Course Hero(Accessed: 28 January 2024).
@@ -98,13 +96,23 @@ Hart, A (2023) what is data modelling? Definition and examples. Available at: Wh
 
 Kabir, A (2020) Database design step by step. Available at: Database Design Step by Step – techforum (wordpress.com) (Accessed: 20 January 2024). 
 
+
 Luquibase (2018) Database compliance and security. Available at: Database Compliance & Security: What You Need to Know | Liquibase (Accessed: 4 February 2024).
+
 Maria DB (2021) Database design: Logical and physical design. Available at: Database Design Phase 2: Logical and Physical Design - MariaDB Knowledge Base (Accessed: 2 February 2024).
+
 Mullins, C (2023) Data privacy regulations and database compliance. Available at: Data Privacy Regulations and Database Compliance: An Overview - elnion.com (Accessed: 10 February 2024).
+
 Sherman, R (2015) Foundational data modelling. Available at: Foundational Data Modeling | Semantic Scholar (Accessed: 29 January 2024).
-Taylor, D (2023) what is data modelling? Types(Conceptual, logical and physical) Available at: What is Data Modelling? Types (Conceptual, Logical, Physical) (guru99.com) (Accessed: 24 January 2024).
+
+Taylor, D (2023) what is data modelling? Types(Conceptual, logical and physical) Available at: What is Data Modelling? Types (Conceptual, Logical, Physical) (guru99.com) (Accessed: 24 
+
+January 2024).
+
 Tibco (2024) what is logical data model. Available at: What is a Logical Data Model? | TIBCO (Accessed: 6 February 2024).
+
 Visual Paradigm (2023) Navigating the Three Levels of Database Design: Conceptual, Logical, and Physical. Available at: Navigating the Three Levels of Database Design: Conceptual, Logical, and Physical - Visual Paradigm Guides (visual-paradigm.com) (Accessed: 28 January 2024).
+
 Wise Edu (2024) Limitations of Logic models. Available at: 6.8: Limitations of Logic Models – Enhancing Program Performance with Logic Models (wisc.edu) (Accessed: 28 January 2024).
 
 
