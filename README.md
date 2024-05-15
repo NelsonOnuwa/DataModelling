@@ -31,16 +31,27 @@ After adding constraints, I established relationships between the tables by sett
 I created tables for the other entities (orders, staff, stores and order_items) in my Evans cycle logical database. Now that I have all of my tables created in a fully functioning relational database, I populated the tables with data by using the INSERT INTO statement with the table name followed by the data I want in parentheses. The syntax is "INSERT INTO table VALUES (data I want to insert, separated by commas)". I retrieved the data from the database using the SELECT statement. To retrieve all the columns from the database, I used SELECT with an asterisk while to select only some columns, I used SELECT statement followed by the names of the columns I want separated by a comma. 
 
 Below is my “customers table” syntax:
+
 CREATE TABLE `customers` (
+
   `id` int NOT NULL,
+  
   `first_name` varchar(45) NOT NULL,
+  
   `last_name` varchar(45) NOT NULL,
+  
   `phone_number` varchar(45) NOT NULL,
+  
   `email` varchar(45) NOT NULL,
+  
   `city` varchar(45) DEFAULT NULL,
+  
   `street` varchar(45) DEFAULT NULL,
+  
   PRIMARY KEY (`id`),
+  
   UNIQUE KEY `email_UNIQUE` (`email`)
+  
 );
 
 DESC customers;
